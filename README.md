@@ -19,8 +19,7 @@ By replicating a famous child game(operation) into an art piece adults can inter
 - light
 - Sensors to activate light and vibrations
 
-
-Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
+--image uploaded separtely
 
 ## Challenges
 
