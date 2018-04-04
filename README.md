@@ -16,6 +16,7 @@ By replicating a famous child game(operation) into an art piece adults can inter
 - 3D print flower petals
 - 3D print tweezers (with metal tip?)
 - 3D print board for petals
+- light
 - Sensors to activate light and vibrations
 
 
